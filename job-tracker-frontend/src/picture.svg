@@ -1,0 +1,26 @@
+<svg width="1000" height="800" viewBox="0 0 500 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- COS'ONE Text -->
+  <text x="20" y="100" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="75" fill="#293175">COS'ONE</text>
+  
+  <!-- The Wavy Arrow (Sky Blue) -->
+  <path d="M40,230 C120,150 180,180 250,180 C300,180 320,240 380,210 L440,165 M440,165 L430,195 M440,165 L405,175" stroke="#3a8cc6" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- The Sun (Yellow) -->
+  <path d="M260,195 A50,45 0 0 1 345,195" stroke="#f1b31c" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <line x1="280" y1="160" x2="270" y2="140" stroke="#f1b31c" stroke-width="6" stroke-linecap="round"/>
+  <line x1="315" y1="145" x2="315" y2="125" stroke="#f1b31c" stroke-width="6" stroke-linecap="round"/>
+  <line x1="350" y1="155" x2="365" y2="135" stroke="#f1b31c" stroke-width="6" stroke-linecap="round"/>
+  <line x1="255" y1="190" x2="240" y2="185" stroke="#f1b31c" stroke-width="6" stroke-linecap="round"/>
+  <line x1="365" y1="195" x2="380" y2="190" stroke="#f1b31c" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- The Family Figures (Yellow) -->
+  <path d="M125,270 Q105,270 105,310 L105,350 L120,350 L120,310 Q125,300 130,310 L130,350 L145,350 L145,310 Q145,270 125,270 Z" fill="#f1b31c"/>
+  <circle cx="125" cy="255" r="12" fill="#f1b31c"/>
+  
+  <path d="M165,280 Q150,280 150,315 L150,355 L165,355 L165,315 Q170,305 175,315 L175,355 L190,355 L190,315 Q190,280 170,280 Z" fill="#f1b31c"/>
+  <path d="M165,260 L180,275 L155,275 Z" fill="#f1b31c"/>
+
+  <!-- Lower Text (French & Arabic) -->
+  <text x="210" y="250" font-family="Arial" font-size="22" fill="#293175" text-anchor="start">مجلس الأعمال الاجتماعية ل م.و.ك.</text>
+  <text x="180" y="280" font-family="Arial" font-size="16" font-weight="bold" fill="#293175" letter-spacing="1">CONSEIL DES OEUVRES SOCIALES DE L'ONE</text>
+</svg>
