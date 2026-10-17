@@ -20,7 +20,7 @@ class JobApplicationController extends Controller
             'position' => 'required|string|max:255',
             'status' => 'required|string|max:50',
             'notes' => 'nullable|string',
-            'application_link' => 'nullable|string',
+            'application_link' => 'nullable|url',
         ]);
 
         $data['user_id'] = Auth::id();
